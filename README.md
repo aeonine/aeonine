@@ -29,4 +29,4 @@ Private infrastructure platform exploring metadata-driven orchestration and serv
 Runtime and orchestration layer for building, deploying and managing distributed game services.
 
 🎮 **Engram**  
-Multiplayer simulation platform built on Symphony, exploring large-scale game systems and economies.
+A minecraft server built using Symphony, exploring large-scale game systems and economies.
