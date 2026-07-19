@@ -14,6 +14,9 @@ Machine learning for predicting DNA strand displacement kinetics.
 ⚙️ **[DevOps delivery platform](https://github.com/aeonine/CSC3131-DevOps)**  
 Automated software delivery, testing and deployment workflows.
 
+₿ **[Portable Bitcoin Node](https://github.com/aeonine/really-easy-bitcoin)**  
+Portable verified Bitcoin Core, Tor and Sparrow setup for USB-based self-custody infrastructure.
+
 🧪 **[Chemical computation simulations](https://github.com/aeonine/CSC3431-CW2)**  
 Deterministic and stochastic modelling of bistable reaction systems.
 
